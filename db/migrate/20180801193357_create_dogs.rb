@@ -1,4 +1,4 @@
 class CreateDogs < ActiveRecord::Migration
-  def change
+  def 
   end
 end
